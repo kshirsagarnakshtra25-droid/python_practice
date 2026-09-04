@@ -1,0 +1,5 @@
+Hello Python
+Welcome to programming
+Python is easy
+I am learning file handling
+Practice makes perfect
